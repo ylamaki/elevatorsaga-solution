@@ -1,2 +1,2 @@
 # elevatorsaga-solution
-Elevator Saga Solution
+My solution to the Elevator Saga programming game (http://play.elevatorsaga.com/)
